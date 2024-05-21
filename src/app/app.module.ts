@@ -15,7 +15,6 @@ import { PortfolioComponent } from './Components/portfolio/portfolio.component';
     AppRoutingModule,
    
     FormsModule,
-    InputTextModule,
     HttpClientModule,
     ReactiveFormsModule,
   
