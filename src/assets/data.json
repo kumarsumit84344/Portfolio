@@ -1,0 +1,299 @@
+[
+    {
+      "Group": "Data Modeling and Metadata",
+      "Objects": [
+        {
+          "Group": "Data Modeling and Metadata",
+          "Subgroup": "Data Modelling",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Modeling and Metadata",
+          "Subgroup": "Multi Domain Support",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Modeling and Metadata",
+          "Subgroup": "Audit Trail / Versioning",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Modeling and Metadata",
+          "Subgroup": "Metadata Management",
+          "Availablity": "Must-have"
+        }
+      ],
+      "Value": [
+        {"key":"High","value":1},
+        {"key":"Medium","value":0.75},
+        {"key":"Low","value":0.5},
+        {"key":"not-relevent","value":0}
+       
+      ]
+    },
+    {
+      "Group": "Hierarchy Management",
+      "Objects": [
+        {
+          "Group": "Hierarchy Management",
+          "Subgroup": "Hierarchies and Relationships Management",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Hierarchy Management",
+          "Subgroup": "Multiple hierarchies",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Hierarchy Management",
+          "Subgroup": "Network Hierarchies",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "Data Quality and Semantics ",
+      "Objects": [
+        {
+          "Group": "Data Quality and Semantics ",
+          "Subgroup": "Data Profling and Data Quality",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Quality and Semantics ",
+          "Subgroup": "Business Rules",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Quality and Semantics ",
+          "Subgroup": "Company Profile",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "Business User Interface (Data Maintenance)",
+      "Objects": [
+        {
+          "Group": "Business User Interface (Data Maintenance)",
+          "Subgroup": "Extensibility and Customisation",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Business User Interface (Data Maintenance)",
+          "Subgroup": "Search/Advanced Search ",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Business User Interface (Data Maintenance)",
+          "Subgroup": "Reporting and Dashboard",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Business User Interface (Data Maintenance)",
+          "Subgroup": "Domain 360 view",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "Data Governance",
+      "Objects": [
+        {
+          "Group": "Data Governance",
+          "Subgroup": "Data Governance/Stewardship",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Governance",
+          "Subgroup": "Analyst Assessment reports",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "Loading, Synchronization, Business Services and Integration ",
+      "Objects": [
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Ability to upload/update in bulk (Import management)",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Export Capabilities",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Connectors and Interoperability\r\n",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Integration capabilities - Inbound / Outbound\r\n",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Real Time / Batch integration mechanisms",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "API economy",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Reconcilation",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Loading, Synchronization, Business Services and Integration ",
+          "Subgroup": "Mass Edit",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "Business Services and Workflow",
+      "Objects": [
+        {
+          "Group": "Business Services and Workflow",
+          "Subgroup": "Workflow and rule based capabilities",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Business Services and Workflow",
+          "Subgroup": "Alerts and Notifications",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "MDM Architecture",
+      "Objects": [
+        {
+          "Group": "MDM Architecture",
+          "Subgroup": "Architecture",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "MDM Architecture",
+          "Subgroup": "Licensing",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "MDM Architecture",
+          "Subgroup": "Match, Merge and Survivorship",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "MDM Architecture",
+          "Subgroup": "Attribute, Identity and Reference data management",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "Data Stewardship , Security and Access Control",
+      "Objects": [
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "Administration",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "Database Support",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "Security Management (User profile/Access)",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "SAML Authenitcation / Others",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "SSO / LDAP integration",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "Role Based Access Control",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "Data Stewardship , Security and Access Control",
+          "Subgroup": "Onboarding User/Admin Interface",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "System Architecture",
+      "Objects": [
+        {
+          "Group": "System Architecture",
+          "Subgroup": "Cloud agnostic / Cloud native",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "System Architecture",
+          "Subgroup": "AWS support",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "System Architecture",
+          "Subgroup": "Migration support",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "System Architecture",
+          "Subgroup": "Ease of Deployment",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "System Architecture",
+          "Subgroup": "Ease of Maintenance",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "System Architecture",
+          "Subgroup": "Ongoing Support and Maintenance",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "System Architecture",
+          "Subgroup": "Implementation, Maintenance, Ease of Upgrade",
+          "Availablity": "Must-have"
+        }
+      ]
+    },
+    {
+      "Group": "High Availability and Disaster Recovery",
+      "Objects": [
+        {
+          "Group": "High Availability and Disaster Recovery",
+          "Subgroup": "High Availability",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "High Availability and Disaster Recovery",
+          "Subgroup": "DR mechanisms and support",
+          "Availablity": "Must-have"
+        },
+        {
+          "Group": "High Availability and Disaster Recovery",
+          "Subgroup": "Scalability, performance and Customization",
+          "Availablity": "Must-have"
+        }
+      ]
+    }
+  ]
